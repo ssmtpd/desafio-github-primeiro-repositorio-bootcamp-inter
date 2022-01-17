@@ -1,0 +1,3 @@
+Os arquivos nesta pasta são alguns exercícios de python,
+de um livro que estou seguindo.
+ 
