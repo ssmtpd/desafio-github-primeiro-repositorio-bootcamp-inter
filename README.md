@@ -1,4 +1,4 @@
-# Repositorio do desafio de projeto sobre Git / Github do DIO - Bootcamp Inter Front-End
+# Repositorio do desafio de projeto sobre Git / Github da DIO - Bootcamp Inter Front-End
 Desafio de projeto sobre Git/GitHub
 
 ## Links úteis
